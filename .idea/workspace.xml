@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b2a9e2c-cfd0-4567-afd0-9302be506b14" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aspect/src/main/java/dev/harsh/architect/aspect/aop/MyAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aspect/src/main/java/dev/harsh/architect/aspect/services/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aspect/src/main/java/dev/harsh/architect/aspect/services/RazorPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/collection/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/collection/ComperableAndComperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/collection/FailFastList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/collection/FailSafeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/collection/LinkedHashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/collection/SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/collection/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/collection/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/collection/UniqueArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/designpattern/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/designpattern/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/designpattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/designpattern/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/exceptions/CheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/exceptions/Errors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/exceptions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/exceptions/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/garbagecollector/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/generics/ClassLevelGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/generics/GenericCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/generics/MethodLevelGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/generics/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/java8/DummyFunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/java8/FunctionInterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/java8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/java8/NthHighestSalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/java8/completableFuture/RunAsyncDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/java8/completableFuture/TestRunAsync.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/java8/wait/EvenOddPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/java8/wait/SumTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/java8/wait/WaitNotify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/AdderSubtractor/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/AdderSubtractor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/AdderSubtractor/Subtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/AdderSubtractor/Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractersyncblock/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractersyncblock/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractersyncblock/Subtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractersyncblock/Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractersynchronizedmethod/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractersynchronizedmethod/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractersynchronizedmethod/Subtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractersynchronizedmethod/Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractormutex/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractormutex/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractormutex/Subtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractormutex/Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/hellowordprinter/HelloWorldPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/hellowordprinter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/mergeSort/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/mergeSort/Sorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/producerconsumer/ConsumerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/producerconsumer/PncClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/producerconsumer/ProducerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/practice/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/practice/ConcurrencyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/practice/CustomListWithoutDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/practice/FailFast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/practice/FailFastMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/practice/FailSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/practice/FailSafeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/practice/ListPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/practice/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/practice/TreeMapPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/streams/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/streams/DataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/streams/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/streams/StreamInterviewQuestions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/streams/StringLengthGreaterThan5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/streams/SumOfEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/streams/TerminalOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/strings/BuilderVsBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/strings/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/strings/TypeErasure.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/aspect">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="aspect" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2c1BGrAnjWLYa9Ul9XTK2QhdHt7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Basic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BuilderVsBuffer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckedException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassLevelGenerics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComperableAndComperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConcurrencyHashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataSource.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Errors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenOddPrinter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FailFast.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FailFastList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FailFastMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FailSafe.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FailSafeList.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FailSafeMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionInterfaceTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericCollections.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedHashMapTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodLevelGenerics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NthHighestSalary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PncClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamInterviewQuestions$AllSatisfyCondition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamInterviewQuestions$ConcatToSingle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamInterviewQuestions$ContainsElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamInterviewQuestions$ConvertToUpperCaseAndSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamInterviewQuestions$FindAverageOfNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamInterviewQuestions$GetDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamInterviewQuestions$GreaterThan5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamInterviewQuestions$GroupByAndGetMaximum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamInterviewQuestions$GroupByDepartment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamInterviewQuestions$GroupByDepartmentAndGetMaxSalary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamInterviewQuestions$IfContains.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamInterviewQuestions$Intersection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamInterviewQuestions$LongestLengthString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamInterviewQuestions$LongestStringLength.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamInterviewQuestions$MaxiElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamInterviewQuestions$RemoveDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamInterviewQuestions$RemoveNulls.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamInterviewQuestions$SortBasedOnLength.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamInterviewQuestions$SquaredList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamInterviewQuestions$secondSmallest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringLengthGreaterThan5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfEven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TerminalOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestRunAsync.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeMapPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypeErasure.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WaitNotify.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dev.harsh.architect.designpattern.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dev.harsh.architect.multithreading.AdderSubtractor.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dev.harsh.architect.multithreading.addersubtractersyncblock.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dev.harsh.architect.multithreading.addersubtractersynchronizedmethod.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dev.harsh.architect.multithreading.addersubtractormutex.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dev.harsh.architect.strings.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build aspect.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.aspect [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.aspect [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.aspect [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.AspectApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Projects/Spring Boot/Interview/src/main/java/dev/harsh/architect/multithreading/addersubtractersyncblock&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Projects/Spring Boot/Interview/src/main/java/dev/harsh/architect/practice/ListPractice.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dev.harsh.architect.streams" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\Spring Boot\Interview\src\main\java\dev\harsh\architect\multithreading\addersubtractersyncblock" />
+      <recent name="C:\Projects\Spring Boot\Interview\src\main\java\dev\harsh\architect\multithreading\addersubtractersynchronizedmethod" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestRunAsync">
+    <configuration name="StreamInterviewQuestions$FindAverageOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.harsh.architect.streams.StreamInterviewQuestions$FindAverageOfNumbers" />
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.harsh.architect.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamInterviewQuestions$GetDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.harsh.architect.streams.StreamInterviewQuestions$GetDuplicates" />
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.harsh.architect.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamInterviewQuestions$LongestLengthString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.harsh.architect.streams.StreamInterviewQuestions$LongestLengthString" />
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.harsh.architect.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamInterviewQuestions$LongestStringLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.harsh.architect.streams.StreamInterviewQuestions$LongestStringLength" />
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.harsh.architect.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunAsync" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.harsh.architect.java8.completableFuture.TestRunAsync" />
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.harsh.architect.java8.completableFuture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AspectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="aspect" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="dev.harsh.architect.aspect.AspectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AspectOrientedApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="AspectOriented" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="dev.harsh.architect.aspectoriented.AspectOrientedApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestRunAsync" />
+        <item itemvalue="Application.StreamInterviewQuestions$GetDuplicates" />
+        <item itemvalue="Application.StreamInterviewQuestions$FindAverageOfNumbers" />
+        <item itemvalue="Application.StreamInterviewQuestions$LongestStringLength" />
+        <item itemvalue="Application.StreamInterviewQuestions$LongestLengthString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-8f899f12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b2a9e2c-cfd0-4567-afd0-9302be506b14" name="Changes" comment="" />
+      <created>1707269114811</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707269114811</updated>
+      <workItem from="1707269116374" duration="164000" />
+      <workItem from="1707269300450" duration="4102000" />
+      <workItem from="1707542415076" duration="21778000" />
+      <workItem from="1707620503287" duration="17064000" />
+      <workItem from="1707650767773" duration="598000" />
+      <workItem from="1707701261328" duration="16985000" />
+      <workItem from="1708308069737" duration="592000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
