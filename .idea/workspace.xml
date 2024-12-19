@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b2a9e2c-cfd0-4567-afd0-9302be506b14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/deepShallowCopy/ShallowVsDeepCopyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/immutableClass/ImmutableClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/designPatternJava/creational/prototype/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/designPatternJava/creational/prototype/Prototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/designPatternJava/creational/singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/designPatternJava/creational/singleton/SingletonEarlyInitilization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/designPatternJava/creational/singleton/SingletonLazyInitilization.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/strings/BuilderVsBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/strings/BuilderVsBuffer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/strings/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/strings/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/collection/ComperableAndComperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/collection/ComperableAndComperator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +126,7 @@
     "Application.dev.harsh.architect.multithreading.addersubtractersynchronizedmethod.Main.executor": "Run",
     "Application.dev.harsh.architect.multithreading.addersubtractormutex.Main.executor": "Run",
     "Application.dev.harsh.architect.strings.Client.executor": "Run",
+    "Application.main.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Gradle.Build aspect.executor": "Run",
     "Maven.aspect [clean].executor": "Run",
@@ -161,7 +163,7 @@
       <recent name="C:\Projects\Spring Boot\Interview\src\main\java\dev\harsh\architect\multithreading\addersubtractersynchronizedmethod" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShallowVsDeepCopyDemo">
+  <component name="RunManager" selected="Application.ComperableAndComperator">
     <configuration name="BuilderVsBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dev.harsh.architect.strings.BuilderVsBuffer" />
       <module name="Interview" />
@@ -175,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dev.harsh.architect.strings.Client" />
+    <configuration name="ComperableAndComperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.harsh.architect.collection.ComperableAndComperator" />
       <module name="Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dev.harsh.architect.strings.*" />
+          <option name="PATTERN" value="dev.harsh.architect.collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestRunAsync" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dev.harsh.architect.java8.completableFuture.TestRunAsync" />
+    <configuration name="TypeErasure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.harsh.architect.strings.TypeErasure" />
       <module name="Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dev.harsh.architect.java8.completableFuture.*" />
+          <option name="PATTERN" value="dev.harsh.architect.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeErasure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dev.harsh.architect.strings.TypeErasure" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.harsh.architect.designPatternJava.creational.prototype.main" />
       <module name="Interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dev.harsh.architect.strings.*" />
+          <option name="PATTERN" value="dev.harsh.architect.designPatternJava.creational.prototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComperableAndComperator" />
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.ShallowVsDeepCopyDemo" />
         <item itemvalue="Application.TypeErasure" />
         <item itemvalue="Application.BuilderVsBuffer" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.TestRunAsync" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +290,7 @@
       <workItem from="1707701261328" duration="16985000" />
       <workItem from="1708308069737" duration="592000" />
       <workItem from="1734596208227" duration="89000" />
-      <workItem from="1734596303978" duration="649000" />
+      <workItem from="1734596303978" duration="8164000" />
     </task>
     <servers />
   </component>
