@@ -8,7 +8,7 @@ public class BuilderVsBuffer {
         IntStream.range(0,200).map((a)->1).parallel().forEach(builder::append);
         StringBuffer buffer = new StringBuffer();
         IntStream.range(0,200).map((a)->1).parallel().forEach(buffer::append);
-        System.out.println(buffer.length());
-        System.out.println(builder.length());
+        System.out.println("buffer "+buffer.length());
+        System.out.println("builder "+builder.length());
     }
 }
