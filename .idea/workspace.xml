@@ -5,91 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b2a9e2c-cfd0-4567-afd0-9302be506b14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/interview/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/interview/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/collection/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/collection/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/collection/ComperableAndComperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/collection/ComperableAndComperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/collection/FailFastList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/collection/FailFastList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/collection/FailSafeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/collection/FailSafeList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/collection/LinkedHashMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/collection/LinkedHashMapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/collection/SetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/collection/SetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/collection/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/collection/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/collection/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/collection/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/collection/UniqueArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/collection/UniqueArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/deepShallowCopy/ShallowVsDeepCopyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/deepShallowCopy/ShallowVsDeepCopyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/designPatternJava/creational/prototype/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/designPatternJava/creational/prototype/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/designPatternJava/creational/prototype/Prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/designPatternJava/creational/prototype/Prototype.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/designPatternJava/creational/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/designPatternJava/creational/singleton/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/designPatternJava/creational/singleton/SingletonEarlyInitilization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/designPatternJava/creational/singleton/SingletonEarlyInitilization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/designPatternJava/creational/singleton/SingletonLazyInitilization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/designPatternJava/creational/singleton/SingletonLazyInitilization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/designpattern/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/designpattern/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/designpattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/designpattern/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/designpattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/designpattern/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/designpattern/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/designpattern/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/exceptions/CheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/exceptions/CheckedException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/exceptions/Errors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/exceptions/Errors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/exceptions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/exceptions/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/exceptions/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/exceptions/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/garbagecollector/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/garbagecollector/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/generics/ClassLevelGenerics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/generics/ClassLevelGenerics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/generics/GenericCollections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/generics/GenericCollections.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/generics/MethodLevelGenerics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/generics/MethodLevelGenerics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/generics/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/generics/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/immutableClass/ImmutableClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/immutableClass/ImmutableClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/java8/DummyFunctionalInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/java8/DummyFunctionalInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/java8/FunctionInterfaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/java8/FunctionInterfaceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/java8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/java8/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/java8/NthHighestSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/java8/NthHighestSalary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/java8/completableFuture/RunAsyncDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/java8/completableFuture/RunAsyncDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/java8/completableFuture/TestRunAsync.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/java8/completableFuture/TestRunAsync.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/java8/wait/EvenOddPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/java8/wait/EvenOddPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/java8/wait/SumTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/java8/wait/SumTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/java8/wait/WaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/java8/wait/WaitNotify.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/AdderSubtractor/Adder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/AdderSubtractor/Adder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/AdderSubtractor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/AdderSubtractor/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/AdderSubtractor/Subtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/AdderSubtractor/Subtractor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/AdderSubtractor/Value.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/AdderSubtractor/Value.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractersyncblock/Adder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/addersubtractersyncblock/Adder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractersyncblock/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/addersubtractersyncblock/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractersyncblock/Subtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/addersubtractersyncblock/Subtractor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractersyncblock/Value.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/addersubtractersyncblock/Value.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractersynchronizedmethod/Adder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/addersubtractersynchronizedmethod/Adder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractersynchronizedmethod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/addersubtractersynchronizedmethod/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractersynchronizedmethod/Subtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/addersubtractersynchronizedmethod/Subtractor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractersynchronizedmethod/Value.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/addersubtractersynchronizedmethod/Value.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractormutex/Adder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/addersubtractormutex/Adder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractormutex/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/addersubtractormutex/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractormutex/Subtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/addersubtractormutex/Subtractor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/addersubtractormutex/Value.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/addersubtractormutex/Value.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/hellowordprinter/HelloWorldPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/hellowordprinter/HelloWorldPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/hellowordprinter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/hellowordprinter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/mergeSort/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/mergeSort/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/mergeSort/Sorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/mergeSort/Sorter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/producerconsumer/ConsumerTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/producerconsumer/ConsumerTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/producerconsumer/PncClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/producerconsumer/PncClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/multithreading/producerconsumer/ProducerTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/multithreading/producerconsumer/ProducerTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/practice/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/practice/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/practice/ConcurrencyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/practice/ConcurrencyHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/practice/CustomListWithoutDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/practice/CustomListWithoutDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/practice/FailFast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/practice/FailFast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/practice/FailFastMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/practice/FailFastMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/practice/FailSafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/practice/FailSafe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/practice/FailSafeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/practice/FailSafeMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/practice/ListPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/practice/ListPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/practice/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/practice/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/practice/TreeMapPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/practice/TreeMapPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/streams/Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/streams/Basic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/streams/DataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/streams/DataSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/streams/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/streams/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/streams/StreamInterviewQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/streams/StreamInterviewQuestions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/streams/StringLengthGreaterThan5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/streams/StringLengthGreaterThan5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/streams/SumOfEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/streams/SumOfEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/streams/TerminalOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/streams/TerminalOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/strings/BuilderVsBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/strings/BuilderVsBuffer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/strings/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/strings/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev/harsh/architect/strings/TypeErasure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/strings/TypeErasure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/streams/StreamInterviewQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/streams/StreamInterviewQuestions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,98 +58,98 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Basic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BuilderVsBuffer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CheckedException.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassLevelGenerics.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ComperableAndComperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConcurrencyHashMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DataSource.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Errors.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvenOddPrinter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FailFast.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FailFastList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FailFastMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FailSafe.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FailSafeList.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.FailSafeMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FunctionInterfaceTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GenericCollections.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedHashMapTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ListPractice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodLevelGenerics.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NthHighestSalary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PncClient.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SetTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ShallowVsDeepCopyDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamInterviewQuestions$AllSatisfyCondition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamInterviewQuestions$ConcatToSingle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamInterviewQuestions$ContainsElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamInterviewQuestions$ConvertToUpperCaseAndSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamInterviewQuestions$FindAverageOfNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamInterviewQuestions$GetDuplicates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamInterviewQuestions$GreaterThan5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamInterviewQuestions$GroupByAndGetMaximum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamInterviewQuestions$GroupByDepartment.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamInterviewQuestions$GroupByDepartmentAndGetMaxSalary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamInterviewQuestions$IfContains.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamInterviewQuestions$Intersection.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamInterviewQuestions$LongestLengthString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamInterviewQuestions$LongestStringLength.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamInterviewQuestions$MaxiElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamInterviewQuestions$RemoveDuplicates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamInterviewQuestions$RemoveNulls.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamInterviewQuestions$SortBasedOnLength.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamInterviewQuestions$SquaredList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamInterviewQuestions$secondSmallest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringLengthGreaterThan5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfEven.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TerminalOperations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestRunAsync.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TreeMapPractice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TypeErasure.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WaitNotify.executor&quot;: &quot;Run&quot;,
-    &quot;Application.dev.harsh.architect.designpattern.Client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.dev.harsh.architect.multithreading.AdderSubtractor.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.dev.harsh.architect.multithreading.addersubtractersyncblock.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.dev.harsh.architect.multithreading.addersubtractersynchronizedmethod.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.dev.harsh.architect.multithreading.addersubtractormutex.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.dev.harsh.architect.strings.Client.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Gradle.Build aspect.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.aspect [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.aspect [compile].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.aspect [install].executor&quot;: &quot;Run&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Spring Boot.AspectApplication (1).executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Projects/Spring Boot/Interview/src/main/java/dev/harsh/architect/multithreading/addersubtractersyncblock&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Projects/Spring Boot/Interview/src/main/java/dev/harsh/architect/practice/ListPractice.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Basic.executor": "Run",
+    "Application.BuilderVsBuffer.executor": "Run",
+    "Application.CheckedException.executor": "Run",
+    "Application.ClassLevelGenerics.executor": "Run",
+    "Application.Client.executor": "Run",
+    "Application.ComperableAndComperator.executor": "Run",
+    "Application.ConcurrencyHashMap.executor": "Run",
+    "Application.DataSource.executor": "Run",
+    "Application.Errors.executor": "Run",
+    "Application.EvenOddPrinter.executor": "Run",
+    "Application.FailFast.executor": "Run",
+    "Application.FailFastList.executor": "Run",
+    "Application.FailFastMap.executor": "Run",
+    "Application.FailSafe.executor": "Run",
+    "Application.FailSafeList.executor": "Debug",
+    "Application.FailSafeMap.executor": "Run",
+    "Application.FunctionInterfaceTest.executor": "Run",
+    "Application.GenericCollections.executor": "Run",
+    "Application.LinkedHashMapTest.executor": "Run",
+    "Application.ListPractice.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MethodLevelGenerics.executor": "Run",
+    "Application.NthHighestSalary.executor": "Run",
+    "Application.PncClient.executor": "Run",
+    "Application.ReverseLinkedList.executor": "Run",
+    "Application.SetTest.executor": "Run",
+    "Application.ShallowVsDeepCopyDemo.executor": "Run",
+    "Application.StreamInterviewQuestions$AllSatisfyCondition.executor": "Run",
+    "Application.StreamInterviewQuestions$ConcatToSingle.executor": "Run",
+    "Application.StreamInterviewQuestions$ContainsElement.executor": "Run",
+    "Application.StreamInterviewQuestions$ConvertToUpperCaseAndSort.executor": "Run",
+    "Application.StreamInterviewQuestions$FindAverageOfNumbers.executor": "Run",
+    "Application.StreamInterviewQuestions$GetDuplicates.executor": "Run",
+    "Application.StreamInterviewQuestions$GreaterThan5.executor": "Run",
+    "Application.StreamInterviewQuestions$GroupByAndGetMaximum.executor": "Run",
+    "Application.StreamInterviewQuestions$GroupByDepartment.executor": "Run",
+    "Application.StreamInterviewQuestions$GroupByDepartmentAndGetMaxSalary.executor": "Run",
+    "Application.StreamInterviewQuestions$IfContains.executor": "Run",
+    "Application.StreamInterviewQuestions$Intersection.executor": "Run",
+    "Application.StreamInterviewQuestions$LongestLengthString.executor": "Run",
+    "Application.StreamInterviewQuestions$LongestStringLength.executor": "Run",
+    "Application.StreamInterviewQuestions$MaxiElement.executor": "Run",
+    "Application.StreamInterviewQuestions$RemoveDuplicates.executor": "Run",
+    "Application.StreamInterviewQuestions$RemoveNulls.executor": "Run",
+    "Application.StreamInterviewQuestions$SortBasedOnLength.executor": "Run",
+    "Application.StreamInterviewQuestions$SquaredList.executor": "Run",
+    "Application.StreamInterviewQuestions$secondSmallest.executor": "Run",
+    "Application.StringLengthGreaterThan5.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.SumOfEven.executor": "Run",
+    "Application.TerminalOperations.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TestRunAsync.executor": "Run",
+    "Application.TreeMapPractice.executor": "Run",
+    "Application.TypeErasure.executor": "Run",
+    "Application.WaitNotify.executor": "Run",
+    "Application.dev.harsh.architect.designpattern.Client.executor": "Run",
+    "Application.dev.harsh.architect.multithreading.AdderSubtractor.Main.executor": "Run",
+    "Application.dev.harsh.architect.multithreading.addersubtractersyncblock.Main.executor": "Run",
+    "Application.dev.harsh.architect.multithreading.addersubtractersynchronizedmethod.Main.executor": "Run",
+    "Application.dev.harsh.architect.multithreading.addersubtractormutex.Main.executor": "Run",
+    "Application.dev.harsh.architect.strings.Client.executor": "Run",
+    "Application.main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Gradle.Build aspect.executor": "Run",
+    "Maven.aspect [clean].executor": "Run",
+    "Maven.aspect [compile].executor": "Run",
+    "Maven.aspect [install].executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.AspectApplication (1).executor": "Run",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Projects/Spring Boot/Interview/src/main/java/dev/harsh/architect/multithreading/addersubtractersyncblock",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "two.files.diff.last.used.file": "C:/Projects/Spring Boot/Interview/src/main/java/dev/harsh/architect/practice/ListPractice.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="dev.harsh.architect.streams" />
@@ -374,11 +291,18 @@
       <workItem from="1734749181698" duration="603000" />
       <workItem from="1734749848347" duration="1465000" />
       <workItem from="1735534719919" duration="1477000" />
-      <workItem from="1736073882754" duration="671000" />
+      <workItem from="1736073882754" duration="1922000" />
+      <workItem from="1736082909799" duration="137000" />
+      <workItem from="1736083054218" duration="695000" />
+      <workItem from="1736099776058" duration="1726000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

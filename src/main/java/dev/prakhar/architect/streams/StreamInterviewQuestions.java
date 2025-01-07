@@ -145,14 +145,18 @@ public class StreamInterviewQuestions {
             employees.add(new Employee("Bob", "HR", 331.21));
             employees.add(new Employee("Bob", "IT", 600.0));
             employees.add(new Employee("Bob", "HR", 60320.0));
-            Map<String, Optional<Employee>> out = employees.stream().collect(Collectors.groupingBy(Employee::getDepartment, Collectors.maxBy(Comparator.comparingDouble(Employee::getSalary))));
-            //System.out.println(out);
+//            Map<String, Optional<Employee>> out = employees.stream().collect(Collectors.groupingBy(Employee::getDepartment, Collectors.maxBy(Comparator.comparingDouble(Employee::getSalary))));
+//            //System.out.println(out);
+//
+//            Map<String, List<Employee>> collect = employees.stream().collect((Collectors.groupingBy(Employee::getDepartment)));
+//            collect.entrySet().stream().forEach((a)->{
+//                System.out.println(a.getKey());
+//                System.out.println(a.getValue().stream().max(Comparator.comparingDouble(Employee::getSalary)).orElseThrow(RuntimeException::new));
+//            });
 
-            Map<String, List<Employee>> collect = employees.stream().collect((Collectors.groupingBy(Employee::getDepartment)));
-            collect.entrySet().stream().forEach((a)->{
-                System.out.println(a.getKey());
-                System.out.println(a.getValue().stream().max(Comparator.comparingDouble(Employee::getSalary)).orElseThrow(RuntimeException::new));
-            });
+            employees.stream().collect(Collectors.groupingBy(emp -> emp.getDepartment())).
+                    forEach((s, empl) -> empl.stream().sorted((a,b)->Double.compare(b.getSalary(),a.getSalary()))
+                            .findFirst().ifPresent((emp2)->System.out.println(emp2)));
         }
     }
 
