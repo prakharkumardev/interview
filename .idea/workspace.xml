@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9b2a9e2c-cfd0-4567-afd0-9302be506b14" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/collection/FailSafeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/prakhar/architect/collection/FailSafeList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -298,6 +299,8 @@
       <workItem from="1737536814445" duration="209000" />
       <workItem from="1737697192369" duration="10000" />
       <workItem from="1737709269416" duration="321000" />
+      <workItem from="1740668181099" duration="2697000" />
+      <workItem from="1740933925536" duration="24000" />
     </task>
     <servers />
   </component>

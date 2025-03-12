@@ -1,8 +1,6 @@
 package dev.prakhar.architect.collection;
 
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
+import java.util.*;
 import java.util.concurrent.CopyOnWriteArrayList;
 
 public class FailSafeList {
@@ -16,5 +14,6 @@ public class FailSafeList {
             System.out.println(element);
             list.add("c");
         }
+
     }
 }
